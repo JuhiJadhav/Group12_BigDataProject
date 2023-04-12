@@ -8,6 +8,7 @@
 - Ryan Essenmacher
 
 ## Communication plan to include project artifact repository
+Slack/Zoom will be our main points for communication.
 Project artifact repository is hosted on GitHub.
 
 ## Data to Analyze
@@ -25,7 +26,7 @@ Project artifact repository is hosted on GitHub.
 - Create more sustainable environmentally friendly energy sources.
 
 ## Domain Knowledge
-
+- [Domain Knowledge](https://www.technofunc.com/index.php/domain-knowledge/category/energy-domain-knowledge/2?f=1)
 
 ## Research Objectives and Questions
 - What regions have increased alternative energy usage?
