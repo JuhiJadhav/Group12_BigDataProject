@@ -8,8 +8,8 @@
 - Ryan Essenmacher
 
 ## Communication plan to include project artifact repository
-Slack/Zoom will be our main points for communication.
-Project artifact repository is hosted on GitHub.
+- Slack/Zoom will be our main points for communication.
+- Project artifact repository is hosted on GitHub.
 
 ## Data to Analyze
 ### First Choice: Energy/World Resources
