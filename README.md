@@ -24,6 +24,7 @@
 ## Business Problem or Opportunity
 - Create cheaper energy sources.
 - Create more sustainable environmentally friendly energy sources.
+- Diversify the Country's energy options
 
 ## Domain Knowledge
 - [Domain Knowledge](https://www.technofunc.com/index.php/domain-knowledge/category/energy-domain-knowledge/2?f=1)
