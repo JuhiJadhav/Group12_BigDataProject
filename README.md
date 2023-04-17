@@ -56,7 +56,7 @@ Thorough planning must be conducted when deciding where to place wind power plan
 
 
 ## Research Objectives and Questions
-- What regions have the best site variables?
+- What regions have the best site variables for future building?
 - What regions have the least amount of maintenance needed?
 - What sites are the densest and can they still be useful if their density rose?
 
