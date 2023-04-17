@@ -18,7 +18,8 @@
 ## Business Problem or Opportunity
 - Create cheaper energy sources due to a diversified industry.
 - Identify the best locations for new Wind turbines.
-- Create oppunitities for small scale wind opportunities for entrepreneurs in order to fuel the local area.
+- Predict the effectiveness of new wind turbine initiatives.
+- Create opportunities for small scale wind opportunities for entrepreneurs in order to fuel the local area.
 
 ## Domain Knowledge
 ### Importance of Renewable Energy 
