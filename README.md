@@ -16,7 +16,11 @@
 - [NREL Wind Integration National Dataset](https://registry.opendata.aws/nrel-pds-wtk/).
 
 ## Business Problem or Opportunity
-- Create cheaper energy sources.
+- Create cheaper energy sources due to a diversified industry.
+- Identify the best locations for new Wind turbines.
+- Create oppunitities for small scale wind opportunities for entrepreneurs in order to fuel the local area.
+
+//Old
 - Create more sustainable environmentally friendly energy sources.
 - Diversify the Country's energy sources, and reduce dependance on any one source.
 
@@ -56,6 +60,11 @@ Thorough planning must be conducted when deciding where to place wind power plan
 
 
 ## Research Objectives and Questions
+- What regions have the best site variables?
+- What regions have the least amount of maintenance needed?
+- What sites are the densest and can they still be useful if their density rose?
+
+//Old
 - What regions have increased alternative energy usage?
 - What regions have decreased alternative energy usage? 
 - Which types of energy sources have increased or decreased in certain times?
