@@ -12,14 +12,11 @@
 - Project artifact repository is hosted on GitHub.
 
 ## Data to Analyze
-### First Choice: Energy/World Resources
+### Energy/World Resources
+- [NREL Wind Integration National Dataset](https://registry.opendata.aws/nrel-pds-wtk/).
 - [NASA Prediction of Worldwide Energy Resources (POWER)](https://registry.opendata.aws/nasa-power/).
 - [Department of Energy's Open Energy Data Initiative (OEDI)](https://registry.opendata.aws/oedi-data-lake/).
-- [NREL Wind Integration National Dataset](https://registry.opendata.aws/nrel-pds-wtk/).
 
-### Second Choice: Wages/Income
-- [GDP and Personal Income of the U.S.](https://www.google.com/publicdata/explore?ds=r2gb7qq0m55r_&ctype=l&met_y=compensation_of_employees#!ctype=l&strail=false&bcs=d&nselm=h&met_y=compensation_of_employees&scale_y=lin&ind_y=false&rdim=country&idim=country:US&ifdim=country&tstart=860558400000&tend=1397016000000&hl=en_US&dl=en_US&ind=false)
-- [World Development Indicators](https://www.google.com/publicdata/explore?ds=d5bncppjof8f9_&ctype=l&met_y=sl_mnf_wage_fm).
 
 ## Business Problem or Opportunity
 - Create cheaper energy sources.
@@ -27,7 +24,39 @@
 - Diversify the Country's energy sources, and reduce dependance on any one source.
 
 ## Domain Knowledge
-- [Domain Knowledge](https://www.technofunc.com/index.php/domain-knowledge/category/energy-domain-knowledge/2?f=1)
+### Importance of Renewable Energy 
+
+When carbon dioxide and other air pollutants build up in the atmosphere, they absorb sunlight and solar rays that normally would escape into space, but because these pollutants may linger in the atmosphere for many years, they trap the heat and make the planet hotter. This is called the greenhouse effect and it is the result of these heat-trapping pollutants, like carbon dioxide, methane, nitrous oxide, water vapor, and synthetic fluorinated gases. Earths rising temperature is known as global warming. Aside from rising temperatures, global warming is linked with other extreme weather such as heavier rainfall and more powerful hurricanes. 
+
+Renewable energy sources produce little to no emissions. Increasing the supply of renewable energy would allow us to reduce global warming emissions and lower the planets temperature. According to the US Department of Energy’s National Renewable Energy Laboratory renewable energy could reduce emissions cause by the electricity sector by 81 percent. 
+
+[UCS](https://www.ucsusa.org/resources/benefits-renewable-energy-use)
+  
+[NREL](https://www.nrel.gov/analysis/re_futures/)
+
+### Wind Power
+Wind power, also called wind energy, is the use of wind to generate electricity or mechanical power. Wind turbines are typically used to harness the kinetic energy from the wind into mechanical power and in conjuction with a generator this energy can be turned into electricity. 
+
+Some benefits of wind power:
+- Wind power will create more well paying jobs.
+- Wind is a domestic resource. 
+- Wind is clean and renewable.
+- Wind power provides one of the lowest-priced energy sources.
+
+Some challenges to expanding/improving wind power:
+- The availability of wind energy varies on an hourly and seasonal basis.
+- The ideal locations are often very remote.
+- Wind power competes with other low-cost energy sources
+
+[Office of Energy Efficiency and Renewable Energy](https://www.energy.gov/eere/wind/advantages-and-challenges-wind-energy)
+
+### Wind Power Plant Location
+
+Thorough planning must be conducted when deciding where to place wind power plants. Some of the considerations that must be accounted for are the wind speeds in the region and how often the region gets wind. According to the U.S. Energy Information Administration (EIA) an ideal location for small wind turbines is somewhere with annual average wind speed of at least 9 miles per hour. For larger wind turbines the ideal location is somewhere with annual average wind speed of at least 13 miles per hour. Some locations that offer these wind speeds are typically open plains and water, mountain gaps, and the tops of smooth rounded hills. Another favorable feature for a location is higher elevation, above the earths surface. 
+
+[U.S. Energy Information Administration](https://www.eia.gov/energyexplained/wind/where-wind-power-is-harnessed.php)
+
+
 
 ## Research Objectives and Questions
 - What regions have increased alternative energy usage?
