@@ -14,9 +14,6 @@
 ## Data to Analyze
 ### Energy/World Resources
 - [NREL Wind Integration National Dataset](https://registry.opendata.aws/nrel-pds-wtk/).
-- [NASA Prediction of Worldwide Energy Resources (POWER)](https://registry.opendata.aws/nasa-power/).
-- [Department of Energy's Open Energy Data Initiative (OEDI)](https://registry.opendata.aws/oedi-data-lake/).
-
 
 ## Business Problem or Opportunity
 - Create cheaper energy sources.
