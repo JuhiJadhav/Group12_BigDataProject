@@ -14,6 +14,8 @@
 ## Data to Analyze
 ### Energy/World Resources
 - [NREL Wind Integration National Dataset](https://registry.opendata.aws/nrel-pds-wtk/).
+### Data Analysis/Preprocessing
+- We have determined that there are no NaN values in our dataset.
 
 ## Business Problem or Opportunity
 - Create cheaper energy sources due to a diversified industry.
